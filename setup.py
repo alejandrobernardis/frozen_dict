@@ -12,7 +12,7 @@ with open('README.md', 'r') as f:
 
 setup(
     name='frozen-dict',
-    version='last',
+    version='2.0',
     url='https://github.com/alejandrobernardis/frozen_dict',
     license='MIT',
     author='Steve Zelaznik',
